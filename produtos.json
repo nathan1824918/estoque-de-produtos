@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Camiseta Básica",
+    "categoria": "Vestuário",
+    "preco": 49.90,
+    "quantidade": 100
+  },
+  {
+    "id": 2,
+    "nome": "Calça Jeans",
+    "categoria": "Vestuário",
+    "preco": 129.90,
+    "quantidade": 50
+  },
+  {
+    "id": 3,
+    "nome": "Tênis Esportivo",
+    "categoria": "Calçados",
+    "preco": 249.90,
+    "quantidade": 30
+  }
+]

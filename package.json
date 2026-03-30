@@ -1,0 +1,13 @@
+{
+  "name": "api-estoque",
+  "version": "1.0.0",
+  "description": "API REST para gerenciamento de estoque de loja",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
